@@ -12,17 +12,21 @@ O dataset do problema pode ser encontrado [aqui](https://archive.ics.uci.edu/ml/
 
 #### Conjunto de Dados
 
-1. **MWG e NWG**
+1. **MWG**
     * Colunas 1 e 2
-    * **Descrição:** ladrilhos 2D por matriz no nível do grupo de trabalho.
+    * **Descrição:** Dimensão da linha da submatriz 2D A.
+    * **Domínio:** {16, 32, 64, 128} (Inteiro)
+1. **NWG**
+    * Colunas 1 e 2
+    * **Descrição:** Dimensão da coluna da submatriz 2D B.
     * **Domínio:** {16, 32, 64, 128} (Inteiro)
 1. **KWG**
     * Coluna 3
-    * **Descrição:** dimensão interna do ladrilho 2D no nível do grupo de trabalho.
+    * **Descrição:** Dimensão da linha da submatriz 2D B e coluna da submatriz 2D A.
     * **Domínio:** {16, 32} (Inteiro)
 1. **MDIMC e NDIMC**
     * Colunas 4 a 5
-    * **Descrição:** tamanho do grupo de trabalho local.
+    * **Descrição:** quantidades de _thrads_ utilizadas nas submatrizes M e N.
     * **Domínio:** {8, 16, 32} (Inteiro)
 1. **MDIMA e NDIMB**
     * Colunas 6 a 7
