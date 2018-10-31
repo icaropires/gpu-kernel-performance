@@ -34,7 +34,7 @@ O dataset do problema pode ser encontrado [aqui](https://archive.ics.uci.edu/ml/
     * **Domínio:** {8, 16, 32} (Inteiro)
 1. **KWI**
     * Coluna 8
-    * **Descrição:** uma fatoração da matriz K.
+    * **Descrição:** uma fatoração da matriz KWG.
     * **Domínio:** {2, 8} (Inteiro)
 1. **VWM e VWN**
     * Colunas 9 a 10
