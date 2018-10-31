@@ -13,11 +13,11 @@ O dataset do problema pode ser encontrado [aqui](https://archive.ics.uci.edu/ml/
 #### Conjunto de Dados
 
 1. **MWG**
-    * Colunas 1 e 2
+    * Colunas 1
     * **Descrição:** Dimensão da linha da submatriz 2D A.
     * **Domínio:** {16, 32, 64, 128} (Inteiro)
 1. **NWG**
-    * Colunas 1 e 2
+    * Colunas 2
     * **Descrição:** Dimensão da coluna da submatriz 2D B.
     * **Domínio:** {16, 32, 64, 128} (Inteiro)
 1. **KWG**
