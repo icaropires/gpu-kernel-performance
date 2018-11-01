@@ -8,7 +8,9 @@ O Dataset do problema mede o tempo de execução de um produto matricial (A * B 
 
 SGEMM é um método de multiplicação de matrizes gerais de precisão única que utiliza a algebra linear para o seu cálculo.
 
-O dataset do problema pode ser encontrado [aqui](https://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance#)
+O dataset do problema pode ser encontrado [aqui](https://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance#).
+
+Tamanho do Dataset: 241.600 amostras
 
 #### Conjunto de Dados
 
