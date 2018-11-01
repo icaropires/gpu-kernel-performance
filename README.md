@@ -4,6 +4,8 @@
 
 ### Dataset
 
+**Tamanho do Dataset:** 241600 X 14
+
 O Dataset do problema mede o tempo de execução de um produto matricial (A * B = C), no qual todas as matrizes possuem o tamanho 2048x2048. em um kernel GPU SGEMM parametrizável com 241600 combinações possíveis. Para cada combinação foram executados 4 testes, com a medição do tempo em milissegundos.
 
 SGEMM é um método de multiplicação de matrizes gerais de precisão única que utiliza a algebra linear para o seu cálculo.
