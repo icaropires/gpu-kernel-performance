@@ -48,3 +48,7 @@ O dataset do problema pode ser encontrado [aqui](https://archive.ics.uci.edu/ml/
     * Colunas 13 a 14
     * **Descrição:** cache manual por matriz do bloco de grupo de trabalho.
     * **Domínio:** {0, 1} (Categórico)
+
+![Primeira Divisão](https://github.com/icaropires/gpu-kernel-performance/blob/master/images/matrix_blocks.png?raw=true)
+![Segunda Divisão](https://github.com/icaropires/gpu-kernel-performance/blob/master/images/matrix_sublocks.png?raw=true)
+
